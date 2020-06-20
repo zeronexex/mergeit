@@ -1,7 +1,7 @@
 # Readme
 
 Suppose, you have file1.txt containing:
-a
+a\n
 b
 c
 and file2.txt containing:
