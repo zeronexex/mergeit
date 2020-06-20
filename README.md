@@ -1,3 +1,21 @@
+# Readme
+
+Suppose, you have file1.txt containing:
+a
+b
+c
+and file2.txt containing:
+b
+c
+d
+e
+Mergeit will take these two files as input and return:
+a
+b
+c
+d
+e
+
 # Installation
 
 1. clone the repo
@@ -6,4 +24,4 @@
 
 # Usage
 
-python3 ./mergeit.py rand.txt ant.txt
+python3 ./mergeit.py somefile_txt_file .some_txt_file
