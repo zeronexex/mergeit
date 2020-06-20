@@ -1,20 +1,6 @@
 # Readme
 
-Suppose, you have file1.txt containing:
-a\n
-b
-c
-and file2.txt containing:
-b
-c
-d
-e
-Mergeit will take these two files as input and return:
-a
-b
-c
-d
-e
+takes two txt files as input to return the unique and common attributes of those two files
 
 # Installation
 
